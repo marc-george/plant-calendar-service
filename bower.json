@@ -4,7 +4,7 @@
   "main": "plant-calendar-service.html",
   "dependencies": {
     "polymer": "Polymer/polymer#^1.4.0",
-    "bah-promise-utility" : "https://712884f4d7f228dea7ac7bd116faa296932a7f1c:x-oauth-basic@github.build.ge.com/HealthcareBrilliantFactoryPredixTeam/bah-promise-utility.git#^1.0.1"
+    "bah-promise-utility" : "https://github.com/marc-george/bah-promise-utility.git#main"
   },
   "devDependencies": {
     "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
